@@ -6,15 +6,15 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "docu-notion sample site",
+  title: "Buzztouch Docs",
   tagline: "",
   url: "https://sillsdev.github.io",
-  baseUrl: "/docu-notion-sample-site/",
+  baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
-  organizationName: "sillsdev", // Usually your GitHub org/user name.
+  organizationName: "buzztouch", // Usually your GitHub org/user name.
   projectName: "docu-notion-sample-site", // Usually your repo name.
   deploymentBranch: "gh-pages",
 
