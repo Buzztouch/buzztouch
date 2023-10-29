@@ -42,7 +42,7 @@ const config = {
   ],
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "fr"],
+    locales: ["en"],
     localeConfigs: {
       en: {
         label: "English",
@@ -73,7 +73,7 @@ const config = {
       metadata: [
         {
           name: "keywords",
-          content: "Bloom, SIL, documentation, help, training",
+          content: "Buzztouch, help, training, documentation, app, creation",
         },
       ],
       sitemap: {
