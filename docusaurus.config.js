@@ -15,7 +15,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   organizationName: "buzztouch", // Usually your GitHub org/user name.
-  projectName: "docu-notion-sample-site", // Usually your repo name.
+  projectName: "docs", // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   presets: [
