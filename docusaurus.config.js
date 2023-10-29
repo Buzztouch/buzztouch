@@ -16,8 +16,7 @@ const config = {
 
   organizationName: "buzztouch", // Usually your GitHub org/user name.
   projectName: "buzztouch", // Usually your repo name.
-  //deploymentBranch: "gh-pages",
-  deploymentBranch: "main",
+  deploymentBranch: "gh-pages",
 
   presets: [
     [
