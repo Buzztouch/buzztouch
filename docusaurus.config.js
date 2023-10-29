@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Buzztouch Docs",
   tagline: "",
-  url: "https://sillsdev.github.io",
+  url: "https://buzztouch.github.io",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
@@ -83,7 +83,7 @@ const config = {
         ignorePatterns: [],
       },
       navbar: {
-        title: "Sample Docusaurus Site using docu-notion",
+        title: "Buzztouch Docs",
         logo: {
           alt: "Logo",
           src: "img/logo.svg",
