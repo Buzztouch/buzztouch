@@ -15,7 +15,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   organizationName: "buzztouch", // Usually your GitHub org/user name.
-  projectName: "buzztouch", // Usually your repo name.
+  projectName: "buzztouch.github.io", // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   presets: [
