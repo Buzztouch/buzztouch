@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Buzztouch Docs",
   tagline: "",
-  url: "https://buzztouch.github.io",
+  url: "https://docs.buzztouch.com",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
