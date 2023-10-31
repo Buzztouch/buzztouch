@@ -90,10 +90,10 @@ const config = {
         },
 
         items: [
-          {
+          /*{
             type: "localeDropdown",
             position: "right",
-          },
+          },*/
         ],
       },
 
